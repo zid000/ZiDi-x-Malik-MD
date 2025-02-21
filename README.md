@@ -11,7 +11,7 @@
 <hr>
 
 <p align="center">
-  <a href="https://youtu.be/@ManulOfficialTech">
+  <a href="https://youtube.com/@zidi_editx?si=blpOC_mSHEOerQuG">
     <img alt="ZiDi-MD" height="300" width="650" src="https://i.ibb.co/wF9C3RVv/shaban-md.jpg">
 
     
