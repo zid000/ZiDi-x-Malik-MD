@@ -124,9 +124,9 @@
 <br>
 <br>
 
-   <a href="https://github.com/manulofficial7/"><img src="https://telegra.ph/file/49e1bb852fe8292c2614a.jpg" width=80 height=80></a>   
+   <a href="https://github.com/zid000"><img src="https://i.ibb.co/wF9C3RVv/shaban-md.jpg" width=80 height=80></a>   
 
-|**[`Manul-Official`](https://github.com/manulofficial7)**|
+|**[`ZiDi Malik-Official`](https://github.com/zid000)**|
 
 
 ## 👑 `Manu-MD BOT OWNER`👨‍💻 
