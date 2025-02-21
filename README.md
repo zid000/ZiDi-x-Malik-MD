@@ -16,9 +16,9 @@
 
     
 
-![forks](https://img.shields.io/github/forks/ManulOfcTech/Manu-XMD?label=Forks&style=social)
+![forks](https://github.com/login?return_to=%2Fzid000%2FZiDi-x-Malik-MD)
 
-![stars](https://img.shields.io/github/stars/ManulOfcTech/Manu-XMD?style=social)
+![stars](https://github.com/login?return_to=%2Fzid000%2FZiDi-x-Malik-MD)
 
 
 
