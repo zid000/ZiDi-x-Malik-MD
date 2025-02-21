@@ -129,9 +129,9 @@
 |**[`ZiDi Malik-Official`](https://github.com/zid000)**|
 
 
-## 👑 `Manu-MD BOT OWNER`👨‍💻 
+## 👑 `ZiDi Malik-MD BOT OWNER 012`👨‍💻 
 
-`⚠️ We are not responsible for any inconvenience caused by your mistakes!   | ඔබගේ අත්වැරදීම් නිසා සිදුවන අපහසුතාවයන් සඳහා අප වගකිවයනු නොලැබේ.`
+`⚠️ We are not responsible for any inconvenience caused by your mistakes!   | Zidi Malik`
 
 - This bot is not made by `WhatsApp Inc.` So misusing the bot might `ban` your `WhatsApp account!`(Though your WhatsApp account can be unbanned only once.)
 - I am not responsible for banning your account.
@@ -139,5 +139,5 @@
  <br>
  </p>
     <p align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=EB+Garamond&weight=800&size=28&duration=4000&pause=1000&random=false&width=435&lines=THANKS+ALL+USE+MY+BOT;Manu-MD" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=EB+Garamond&weight=800&size=28&duration=4000&pause=1000&random=false&width=435&lines=THANKS+ALL+USE+MY+BOT; ZiDixMalik-MD" alt="Typing SVG" /></a>
 ---
