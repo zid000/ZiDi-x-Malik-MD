@@ -30,7 +30,7 @@
 
 ## MY YT CHANNEL
 
-[![Youtube](https://telegra.ph/file/eebe86c26e98ffeae39ea.jpg)](https://youtube.com/@ManulOfficialTech) 
+[![Youtube](https://telegra.ph/file/eebe86c26e98ffeae39ea.jpg)](https://www.youtube.com/@ZiDi_Malikx012) 
 
 </details>
 
