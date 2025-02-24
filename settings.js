@@ -1,38 +1,23 @@
 //══════════════════════════════════════════════════════════════════════════════════════════════════════//
 //                                                                                                      //
-//                                    𝗠𝗔𝗡𝗨-𝗠𝗗  𝐁𝐎𝐓                                                 //
+//                                    𝗭𝗶𝗗𝗶-𝗠𝗗  𝐁𝐎𝐓                                                 //
 //                                                                                                      //
 //                                         Ｖ：7.0                                                       //
-
-//███╗░░░███╗░█████╗░███╗░░██╗██╗░░░██╗
-//████╗░████║██╔══██╗████╗░██║██║░░░██║
-//██╔████╔██║███████║██╔██╗██║██║░░░██║
-//██║╚██╔╝██║██╔══██║██║╚████║██║░░░██║
-//██║░╚═╝░██║██║░░██║██║░╚███║╚██████╔╝
-//╚═╝░░░░░╚═╝╚═╝░░╚═╝╚═╝░░╚══╝░╚═════╝░
-
-//███╗░░░███╗██████╗░
-//████╗░████║██╔══██╗
-//██╔████╔██║██║░░██║
-//██║╚██╔╝██║██║░░██║
-//██║░╚═╝░██║██████╔╝
-//╚═╝░░░░░╚═╝╚═════╝░
-
 //══════════════════════════════════════════════════════════════════════════════════════════════════════//
 //*
-//  * @project_name : MANU-MD
-//  * @author : Manul Official
-//  * @youtube : https://www.youtube.com/@ManulOfficialTech
-//  * @description : Manu-MD ,A Multi-functional whatsapp user bot.
+//  * @project_name : ZiDi-MD
+//  * @author : Malik Official
+//  * @youtube : https://www.youtube.com/@ZiDi_Malikx012
+//  * @description : ZiDi-MD ,A Multi-functional whatsapp user bot.
 //*
 //*
-//base by Manul Official
-//GitHub: @manulofficial7
-//WhatsApp: +94742274855
-//want more free bot scripts? subscribe to my youtube channel: https://youtube.com/@ManulOfficialTech
-//   * Created By Github: manulofficial7.
-//   * Credit To Manul Official
-//   * © 2024 MANU-MD-V7.
+//base by Malik Official
+//GitHub: @zid000
+//WhatsApp: +923247116683
+//want more free bot scripts? subscribe to my youtube channel: https://www.youtube.com/@ZiDi_Malikx012
+//   * Created By Github: zid000.
+//   * Credit To Malik Official
+//   * © 2024 𝗭𝗶𝗗𝗶-𝗠𝗗-𝗩7.
 // ⛥┌┤
 // */
 
@@ -46,7 +31,7 @@ module.exports = {
 SESSION_ID: process.env.SESSION_ID === undefined ? '' : process.env.SESSION_ID,
 PREFIX: process.env.PREFIX || '.' ,
 PORT: process.env.PORT === undefined ? "8000" : process.env.PORT,
-SUDO: process.env.SUDO === undefined ? '94742274855' : process.env.SUDO,
+SUDO: process.env.SUDO === undefined ? '923247116683' : process.env.SUDO,
 AUTO_READ_STATUS: process.env.AUTO_READ_STATUS === undefined ?"true" : process.env.AUTO_READ_STATUS,
 MODE: process.env.MODE === undefined ?"public" : process.env.MODE,
 AUTO_VOICE: process.env.AUTO_VOICE === undefined ? "false" : process.env.AUTO_VOICE,
