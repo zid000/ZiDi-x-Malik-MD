@@ -1,12 +1,12 @@
 {
-  "name": "MANU-MD",
+  "name": "ZiDi-MD",
   "version": "7.0.0",
   "description": "A WhatsApp bot created using Node.js",
   "main": "manu.js",
   "scripts": {
-    "start": "pm2 start manu.js --deep-monitoring --attach --name MANU-MD",
-    "stop": "pm2 stop MANU-MD",
-    "restart": "pm2 restart MANU-MD"
+    "start": "pm2 start manu.js --deep-monitoring --attach --name ZiDi-MD",
+    "stop": "pm2 stop ZiDi-MD",
+    "restart": "pm2 restart ZiDi-MD"
   },
   "dependencies": {
    "@whiskeysockets/baileys": "npm:manul-ofc-baileys",
